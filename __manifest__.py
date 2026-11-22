@@ -14,7 +14,7 @@ remain in the separate ff_mrp_employee_productivity module.
     'website': 'https://flousflow.com',
     'license': 'LGPL-3',
     'images': [
-        'static/description/icon.png',
+        'static/description/images/shop_floor_screenshot.png',
     ],
     'depends': ['mrp'],
     'data': [
