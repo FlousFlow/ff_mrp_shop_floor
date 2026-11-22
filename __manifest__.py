@@ -13,6 +13,9 @@ remain in the separate ff_mrp_employee_productivity module.
     'author': 'Flous Flow',
     'website': 'https://flousflow.com',
     'license': 'LGPL-3',
+    'images': [
+        'static/description/icon.png',
+    ],
     'depends': ['mrp'],
     'data': [
         'views/shop_floor_views.xml',
